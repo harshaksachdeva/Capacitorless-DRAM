@@ -54,4 +54,12 @@ at the IG side. Furthermore, the storage holes are retained by the high work fun
 # Advantages of Capacitorless DRAM: 
 The advantage of capacitorless DRAM is that it allows for higher density memory without sacrificing performance or reliability. Because there is no capacitor, the memory cells can be packed more closely together, resulting in higher memory density. Additionally, since there is no capacitor to charge and discharge, the power consumption of capacitorless DRAM is significantly lower than that of traditional DRAM. Overall, capacitorless DRAM is an exciting development in memory technology that has the potential to significantly improve memory density and power consumption.
 
+# Resources:
+-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8789468
+-S. Okhonin, M. Nagoga, J. M. Sallese, and P. Fazan, ‘‘A capacitor-less
+1T-DRAM cell,’’ IEEE Electron Device Lett., vol. 23, no. 2, pp. 85–87,
+Feb. 2002, doi: 10.1109/55.981314.
+- https://www.mdpi.com/2079-9292/11/20/3365
+- https://www.ijsr.net/archive/v9i6/SR20529100732.pdf
+
 
